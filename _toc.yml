@@ -5,6 +5,7 @@ format: jb-book
 root: intro
 chapters:
 - file: iterators
-- file: binary-sequences
-- file: random-binary-sequence
-- file: markdown-notebooks
+  sections:
+  - file: binary-sequences
+  - file: random-binary-sequence
+  - file: markdown-notebooks

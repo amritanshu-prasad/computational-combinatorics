@@ -11,7 +11,7 @@ kernelspec:
   name: python3
 ---
 
-# Iterators and iterable classes in python
+# Iterators and iterable classes
 
 In python, an iterator is an object that you can loop over.
 For example, you can loop over a list, a string, or a dictionary in python.

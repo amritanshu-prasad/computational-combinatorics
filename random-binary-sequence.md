@@ -71,6 +71,15 @@ to generate a random binary sequence of length three:
 random_element(binary_sequences(3))
 ```
 
-```{code-cell} ipython3
+This algorithm does not require any understanding of the set being sampled from; all you need is an iterator.
+The downside is that you must generate all the elements of the set and store them in a list before you get a sample.
 
+For this reason, the algorithm will not work for very long binary sequences.
+(exercise:hundred-bits)=
+```{Exercise}
+    How many binary sequences of length 100 are there?
+    Assuming that each such sequence (consisting of 100 bits) takes 15 bytes to store, how many gigabytes will you need in order to generate and store all such sequences?
 ```
+In the next chapter we will see how the idea of statiscal independence can be used to generate a random sample from the set of binary sequences of length 100 very fast, using very little memory. 
+
++++
