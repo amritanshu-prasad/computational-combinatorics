@@ -8,4 +8,5 @@ chapters:
   sections:
   - file: binary-sequences
   - file: random-binary-sequence
+  - file: independence
   - file: markdown-notebooks
