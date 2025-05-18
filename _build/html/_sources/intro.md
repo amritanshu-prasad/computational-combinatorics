@@ -1,11 +1,13 @@
 # Introduction
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+Combinatorics is the study of structures on finite sets, such as graphs, permutations, and subsets.
+Each structure may be regarded as a *combinatorial class*.
+In this book, we understand combinatorial classes by computation.
+For each class we look at formulae for counting its number of elements, different ways of generating its elements, and different ways of sampling from it.
 
-Check out the content pages bundled with this sample book to see more.
+The computation is done using python, therefore, basic familarity with python is a prerequisite.
+Computation is demonstrated using Jupyter notebooks, which allow us to mix code, text, and mathematical formulae.
+The chapters that are based on Jupyter notebooks can be downloaded and run on your own computer.
 
 ```{tableofcontents}
 ```

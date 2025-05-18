@@ -1,7 +1,7 @@
 # Introduction
 
 Combinatorics is the study of structures on finite sets, such as graphs, permutations, and subsets.
-Each structure may be regarded as a *combinatorical class*.
+Each structure may be regarded as a *combinatorial class*.
 In this book, we understand combinatorial classes by computation.
 For each class we look at formulae for counting its number of elements, different ways of generating its elements, and different ways of sampling from it.
 
