@@ -11,7 +11,7 @@ kernelspec:
   name: python3
 ---
 
-# Binary Sequence
+# Binary Sequences
 
 ### Definition
 
